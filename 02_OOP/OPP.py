@@ -3,6 +3,25 @@ os.system('cls' if os.name == 'nt' else 'clear')
 
 print("-------------------------------------")
 
+#!Topics to be Covered:
+
+#* Everything in Python is class
+#? Defining class
+#* Defining class attributes
+#? Difference between class attributes and instance attributes
+#* SELF keyword
+#? Static methods
+#* Special methods (init, str)
+#? 4 pillars of OOP:
+#     Encapsulation
+#     Abstraction
+#     Inheritance
+#        Multiple inheritance
+#     Polymorphism
+#        Overriding methods
+#* Inner class
+
+
 # #! Defining Person 
 
 # class Person:
